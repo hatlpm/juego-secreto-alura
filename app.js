@@ -10,7 +10,7 @@ let listaNumerosSorteados = []; // Estp es con el objetivo de jugar el numero so
 let numeroSecreto = 0;
 
 let intentos = 1;
-let numeroMaximo = 100;
+let numeroMaximo = 10;
 
 // Funcion hace un accion --- validar el usuario
 //BOTONES
